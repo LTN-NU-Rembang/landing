@@ -9,5 +9,9 @@ export default defineNuxtConfig({
     },
   },
   modules: ["nuxt-icon"],
-  ssr: false
+  ssr: false,
+  app: {
+    baseURL: '/landing/', // Ganti dengan base URL yang Anda inginkan
+  },
+  target: 'static',
 });
