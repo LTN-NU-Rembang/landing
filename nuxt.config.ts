@@ -13,5 +13,14 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/landing/', // Ganti dengan base URL yang Anda inginkan
   },
+  router: {
+    options: {
+      base: '/landing/',
+      mode: 'history',
+    }
+  },
+  build: {
+    publicPath: '/landing/_nuxt/'
+  },
   target: 'static',
 });
