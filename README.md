@@ -2,7 +2,7 @@
 
 Ini adalah halaman web landing dari PC Nahdlatul Ulama Kab. Rembang: nurembang.or.id
 
-Terima kasih kepada pembuat template ini.
+Terima kasih Nuxtship Template.
 
 # Nuxtship - Nuxt SAAS Starter Website Template
 
